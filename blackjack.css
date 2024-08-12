@@ -1,0 +1,24 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#dealer-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+#your-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+#hit {
+    height: 175px;
+    width: 125px;
+    font-size: 20px;
+}
+#stay {
+    height: 175px;
+    width: 125px;
+    font-size: 20px;
+}
